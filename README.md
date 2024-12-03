@@ -1,2 +1,2 @@
 # CMU-Graphics-Projects
-Projects that Utilize CMU graphics
+A portfolio of the following projects made using CMU graphics.
