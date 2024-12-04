@@ -4,9 +4,11 @@ A portfolio of the following projects made using CMU graphics.
 These projects can only be run locally if the CMU Graphics package has been downloaded locally. 
 Unfortunately, the graphics package was updated and some of my larger projects no longer work due to this.
 
+## **Visual Selection Sort**
+In this project I chose to demostate Selection Sort visually. I was inspired by [xSortLab](https://math.hws.edu/eck/js/sorting/xSortLab.html) and decided to add my own flair to the overall experience. The best way to get an idea of what I created is by trying it out [here!](https://academy.cs.cmu.edu/sharing/cyanSquirrel2663).
 
 ## **Super Set** 
-This project is an updated version of the game SET with various features including hints, difficulty settings, and multiple themes.
+This project is an updated version of the game SET with various features including hints, difficulty settings, and multiple themes. Unfortunately a demo for this project is not avaliable, but I have linked photos of the project.
 
 ### Original Set Rules
 - A group of 3/4 cards is considered a set.
@@ -41,16 +43,17 @@ Each player takes a turn shooting their blot at the other. Depending on the dist
 
 **Initial Play Screen**
 
-
+<img width="600" alt="Screenshot 2024-12-03 at 10 39 43 PM" src="https://github.com/user-attachments/assets/1f6e2e97-4d1c-4dbe-940c-c356380d6ac7">
 
 **Night Mode Play Screen**
 
+<img width="594" alt="Screenshot 2024-12-03 at 10 40 15 PM" src="https://github.com/user-attachments/assets/81af1140-af38-4035-802c-039fd63d5bd5">
+
 **Game in Action**
 
+<img width="585" alt="Screenshot 2024-12-03 at 10 40 56 PM" src="https://github.com/user-attachments/assets/96de3288-2e8f-44c1-b970-7cd3ba606f18">
 
+Try it out [here!](https://academy.cs.cmu.edu/sharing/blackSpider6609)
 
-https://academy.cs.cmu.edu/sharing/blackSpider6609
-### Features
-- Night Mode: Toggle
 
 
