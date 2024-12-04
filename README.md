@@ -18,7 +18,7 @@ This project is an updated version of the game SET with various features includi
 ### Features
 In this version of Set, you can switch between different themes, and difficulties and even play for points. If you get stuck, there is a hint function that will highlight cards that are part of a set. There is an option to change the "dimensions" of this game. These dimensions change the difficulty by adding more features to each card. For example, border thickness and rotation speed of a shape would be two attributes that would need to be taken into account if these dimensions were added.
 
-In the future, I hope to improve the UI/UX of the game by changing the play screen to be more user-friendly. 
+In the future, I hope to improve the UI/UX of the game by changing the play screen include buttons for changing dimensions and themes. I would also like to improve the spacing of all the components and maybe create a two player version.
 
 ### Photos
 
