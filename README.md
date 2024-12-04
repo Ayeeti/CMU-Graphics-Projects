@@ -24,6 +24,11 @@ In the future, I hope to improve the UI/UX of the game by changing the play scre
 <img width="994" alt="Screenshot 2024-12-03 at 9 51 34 PM" src="https://github.com/user-attachments/assets/307974c8-8f61-4af4-aa0f-8354863c7e77">
 
 **Play Screen**
+<img width="989" alt="Screenshot 2024-12-03 at 9 53 22 PM" src="https://github.com/user-attachments/assets/7fb91740-fc5a-4afe-be50-bfb8b14cf5b9">
+
+**Hint Graphics**
+<img width="994" alt="Screenshot 2024-12-03 at 9 55 54 PM" src="https://github.com/user-attachments/assets/ef1d88cd-9bd7-4ede-b925-fb31b2170099">
+
 
 
   
